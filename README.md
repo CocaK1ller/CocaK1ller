@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CocaK1ller
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning ML, OS ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning  ...
 - 💞️ I’m looking to collaborate on ...    
 - 📫 How to reach me:
-      213193462@seu.edu.cn
+     
 
 <!---
 CocaK1ller/CocaK1ller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
